@@ -42,7 +42,7 @@ Production-ready PHP 8.1+ библиотека Gmp (CloudCastle).
 [![Maintainability](https://qlty.sh/gh/admin-cloud-castle/projects/gmp/maintainability.svg)](https://qlty.sh/gh/admin-cloud-castle/projects/gmp)
 [![Qlty Coverage](https://qlty.sh/gh/admin-cloud-castle/projects/gmp/coverage.svg)](https://qlty.sh/gh/admin-cloud-castle/projects/gmp)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/admin-cloud-castle/gmp/badge)](https://scorecard.dev/viewer/?uri=github.com/admin-cloud-castle/gmp)
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects?as=badge&url=https%3A%2F%2Fgithub.com%2Fadmin-cloud-castle%2Fgmp)](https://www.bestpractices.dev/projects?as=entry&url=https%3A%2F%2Fgithub.com%2Fadmin-cloud-castle%2Fgmp)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/15729/badge)](https://www.bestpractices.dev/projects/15729)
 [![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=admin-cloud-castle_gmp&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=admin-cloud-castle_gmp)
 [![Snyk](https://snyk.io/test/github/admin-cloud-castle/gmp/badge.svg)](https://snyk.io/test/github/admin-cloud-castle/gmp)
 [![Codacy](https://img.shields.io/badge/Codacy-dashboard-blue)](https://app.codacy.com/gh/admin-cloud-castle/gmp/dashboard)
